@@ -1,0 +1,23 @@
+{
+  "name": "led",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryce-Soghigian/led.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryce-Soghigian/led/issues"
+  },
+  "homepage": "https://github.com/Bryce-Soghigian/led#readme",
+  "dependencies": {
+    "ws2801-pi": "^1.0.0"
+  }
+}
